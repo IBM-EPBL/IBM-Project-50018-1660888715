@@ -29,3 +29,36 @@
 - Team member-3 : JAGARLAMUDI BHARATH
 
 
+# Project Completion Status
+
+- Preparation Phase - Completed
+
+- Ideation Phase 
+  - Literature Survey - Completed
+  - Empathy Map - Completed
+  - Problem Statement - Completed
+  - Brainstorm & Idea Prioritization (Ideation) - Completed
+  
+- Project Design Phase - 1
+  - Proposed Solution - Completed
+  - Problem Solution Fit - Completed
+  - Solution Architecture - Completed
+  
+- Project Design Phase - 2
+  - Customer Journey - Completed
+  - Data Flow Diagrams & User Stories - Completed
+  - Technology Stack (Architecture & Stack) - Completed
+  - Solution Requirements (Functional Requirements) - Completed
+ 
+- Project Planning Phase
+  - Milestone & Activity - Completed
+  - Sprint Delivery Plan - Completed
+  
+- Project Development Phase
+  - Delivery of Sprint-1
+  - Delivery of Sprint-2
+  - Delivery of Sprint-3
+  - Delivery of Sprint-4
+
+
+
