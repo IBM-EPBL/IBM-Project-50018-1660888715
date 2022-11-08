@@ -55,10 +55,13 @@
   - Sprint Delivery Plan - Completed
   
 - Project Development Phase
-  - Delivery of Sprint-1
-  - Delivery of Sprint-2
-  - Delivery of Sprint-3
-  - Delivery of Sprint-4
+  - Delivery of Sprint-1 - Completed
+  - Delivery of Sprint-2 - Completed
+  - Delivery of Sprint-3 - Completed
+  - Delivery of Sprint-4 - Completed
+ 
+ - Final Deliverables - Completed
+
 
 
 
